@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_hewan_darat"
+        android:title="@string/hewan_darat"/>
+
+    <item
+        android:id="@+id/navigation_favorite"
+        android:icon="@drawable/ic_hewan_air"
+        android:title="@string/hewan_air"/>
+
+    <item
+        android:id="@+id/navigation_about"
+        android:icon="@drawable/ic_hewan_udara"
+        android:title="@string/hewan_udara"/>
+
+</menu>

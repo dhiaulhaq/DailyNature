@@ -1,0 +1,159 @@
+<resources>
+    <string name="app_name">DailyNature</string>
+
+    //Bottom Navigation Menu
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="about">About</string>
+
+    //Bottom Navigation Menu Hewan
+    <string name="hewan_darat">Darat</string>
+    <string name="hewan_air">Air</string>
+    <string name="hewan_udara">Udara</string>
+
+    //Hewan Darat
+    <string name="kucing">
+        Kucing disebut juga kucing domestik atau kucing rumah (nama ilmiah: Felis silvestris catus atau Felis catus) adalah sejenis mamalia
+        karnivora dari keluarga Felidae. Kata "kucing" biasanya merujuk kepada "kucing" yang telah dijinakkan, tetapi bisa juga merujuk kepada
+        "kucing besar" seperti singa dan harimau.
+    </string>
+    <string name="singa">
+        Singa (bahasa Sanskerta: Siṃha, atau dalam bahasa Latin: Panthera leo) adalah spesies hewan dari keluarga felidae atau jenis kucing. Singa
+        merupakan hewan yang hidup berkelompok. Biasanya terdiri dari seekor jantan dan banyak betina. Kelompok ini menjaga daerah kekuasaannya.
+        Umur singa antara 10 sampai 15 tahun di alam bebas, tetapi dalm penangkaran memungkinkan lebih dari 20 tahun.
+    </string>
+    <string name="gajah">
+       Gajah adalah mamalia besar dari famili Elephantidae dan ordo Proboscidea. Secara tradisional, terdapat dua spesies yang diakui, yaitu
+        gajah afrika (Loxodonta africana) dan gajah asia (Elephas maximus), walaupun beberapa bukti menunjukkan bahwa gajah semak afrika dan
+        gajah hutan afrika merupakan spesies yang berbeda (L. africana dan L. cyclotis). Gajah tersebar di seluruh Afrika sub-Sahara,
+        Asia Selatan, dan Asia Tenggara. Elephantidae adalah satu-satunya famili dari ordo Proboscidea yang masih ada; famili lain yang kini
+        sudah punah termasuk mamut dan mastodon. Gajah afrika jantan merupakan hewan darat terbesar dengan tinggi hingga 4 m dan massa yang
+        juga dapat mencapai 7.000 kg. Gajah memiliki ciri-ciri khusus, dan yang paling mencolok adalah belalai atau proboscis yang digunakan
+        untuk banyak hal, terutama untuk bernapas, menghisap air, dan mengambil benda. Gigi serinya tumbuh menjadi taring yang dapat digunakan
+        sebagai senjata dan alat untuk memindahkan benda atau menggali. Daun telinganya yang besar membantu mengatur suhu tubuh mereka.
+        Gajah afrika memiliki telinga yang lebih besar dan punggung yang cekung, sementara telinga gajah asia lebih kecil dan punggungnya cembung.
+    </string>
+    <string name="anjing">
+        Anjing adalah mamalia yang telah mengalami domestikasi dari serigala sejak 15.000 tahun yang lalu, bahkan kemungkinan sudah sejak
+        100.000 tahun yang lalu berdasarkan bukti genetik berupa penemuan fosil dan tes DNA. Penelitian lain mengungkap sejarah domestikasi
+        anjing yang belum begitu lama.
+    </string>
+    <string name="kuda">
+        Kuda (Equus caballus atau Equus ferus caballus) adalah salah satu dari sepuluh spesies modern mamalia dari genus Equus. Hewan ini telah lama
+        merupakan salah satu hewan peliharaan yang penting secara ekonomis dan historis, dan telah memegang peranan penting dalam pengangkutan orang dan
+        barang selama ribuan tahun.
+    </string>
+
+
+    //Hewan Air
+    <string name="paus">
+        Paus atau lodan (khusus yang bergigi dan bukan berukuran kecil) adalah kelompok mamalia yang hidup di lautan. Sebutan "paus" diberikan
+        pada anggota bangsa Cetacea yang berukuran besar. Paus bukan tergolong dalam keluarga ikan. Paus mempunyai ciri-ciri sebagai berikut:
+        bernapas menggunakan paru-paru, mempunyai rambut (sedikit, kebanyakan ada di paus dewasa), berdarah panas, mempunyai kelenjar susu,
+        mempunyai jantung dengan empat ruang.
+    </string>
+    <string name="lumba_lumba">
+        Lumba-lumba adalah mamalia laut yang sangat cerdas, selain itu sistem alamiah yang melengkapi tubuhnya sangat kompleks. Sehingga banyak
+        teknologi yang terinspirasi dari lumba-lumba. Salah satu contoh adalah kulit lumba-lumba yang mampu memperkecil gesekan dengan air,
+        sehingga lumba-lumba dapat berenang dengan sedikit hambatan air. Hal ini yang digunakan para perenang untuk merancang baju renang yang
+        mirip kulit lumba-lumba.
+    </string>
+    <string name="kodok">
+        Kodok sawah ialah sejenis katak yang banyak hidup di sawah-sawah, rawa, parit dan selokan, sampai ke rawa-rawa bakau. Nama ilmiahnya
+        Fejervarya cancrivora, dan dalam bahasa Inggris dikenal sebagai marsh frog, rice-field frog atau crab-eating frog; nama yang terakhir
+        diberikan karena kegemaran kodok ini memangsa ketam sawah (Lat. cancer ketam, vorare makan, memangsa).
+    </string>
+    <string name="bebek">
+        Bebek atau Itik adalah nama umum untuk beberapa spesies burung dalam famili Anatidae. Bebek umumnya adalah burung akuatik yang sebagian
+        besar berukuran lebih kecil dibandingkan kerabatnya, angsa dan angsa berleher pendek, dan dapat ditemukan pada perairan air tawar maupun
+        air laut.
+    </string>
+
+
+    //Hewan Udara
+    <string name="elang">
+        Elang merupakan salah satu dari hewan yang terdapat di seluruh Indonesia. Dalam Bahasa inggris, eagle atau elang merujuk pada burung
+        pemangsa berukuran besar dari suku Accipitridae terutama genus Aquila. Sementara itu burung-burung pemangsa yang lebih kecil dalam
+        Daftar Burung Indonesia nomor 2 disebut Elang-alap (Hawk, genus Accipiter).
+    </string>
+    <string name="burung_hantu">
+        Burung hantu adalah kelompok burung yang merupakan anggota ordo Strigiformes. Burung ini termasuk golongan burung buas (karnivora,
+        pemakan daging) dan merupakan hewan malam (nokturnal). Seluruhnya, terdapat sekitar 222 spesies yang telah diketahui, yang menyebar
+        di seluruh dunia kecuali Antartika, sebagian besar Greenland, dan beberapa pulau-pulau terpencil.
+    </string>
+    <string name="merpati">
+        Merpati dan dara termasuk dalam famili Columbidae atau burung berparuh merpati dari ordo Columbiformes, yang mencakup sekitar 300
+        spesies burung kerabat pekicau. Dalam percakapan umum, istilah "dara" dan "merpati" dapat saling menggantikan. Dalam praktik ornitologi,
+        terdapat suatu kecenderungan "dara" digunakan untuk spesies yang lebih kecil dan "merpati" untuk yang besar, tetapi hal ini tidak secara
+        konsisten diterapkan, dan secara historis nama umum untuk burung-burung tersebut memiliki banyak variasi antara istilah "dara"
+        dan "merpati." Famili ini terdapat di seluruh dunia, tetapi varietas terbesar terdapat di Indomalaya dan Ekozona Australasia.
+        Dara dan merpati muda disebut "squabs."
+    </string>
+    <string name="gagak">
+        Gagak adalah anggota burung pengicau (Passeriformes) yang termasuk dalam marga Corvus, suku Corvidae. Hampir semua jenis burung ini
+        berukuran relatif besar dan berwarna bulu dominan hitam. Daerah sebarannya ada di seluruh benua dan kepulauan, dengan perkecualian
+        di Amerika Selatan.
+    </string>
+
+
+    //Buah
+    <string name="apel">
+        Apel adalah jenis buah-buahan, atau buah yang dihasilkan dari pohon buah apel. Buah apel biasanya berwarna merah kulitnya jika masak dan
+        (siap dimakan), namun bisa juga kulitnya berwarna hijau atau kuning. Kulit buahnya agak lembek, daging buahnya keras. Buah ini memiliki
+        beberapa biji di dalamnya.
+    </string>
+    <string name="jeruk">
+        Jeruk atau limau adalah semua tumbuhan berbunga anggota marga Citrus dari suku Rutaceae (suku jeruk-jerukan). Anggotanya berbentuk pohon
+        dengan buah yang berdaging dengan rasa masam yang segar, meskipun banyak di antara anggotanya yang memiliki rasa manis. Rasa masam berasal
+        dari kandungan asam sitrat yang memang menjadi terkandung pada semua anggotanya.
+    </string>
+    <string name="mangga">
+        Mangga atau mempelam adalah nama sejenis buah, demikian pula nama pohonnya. Mangga termasuk ke dalam marga Mangifera, yang terdiri dari
+        35-40 anggota dan suku Anacardiaceae. Pohon mangga termasuk tumbuhan tingkat tinggi yang struktur batangnya (habitus) termasuk kelompok
+        arboreus, yaitu tumbuhan berkayu yang mempunyai tinggi batang lebih dari 5 m. Mangga bisa mencapai tinggi antara 10 hingga 40 m.
+    </string>
+    <string name="anggur">
+        Anggur merupakan tanaman buah berupa perdu merambat yang termasuk ke dalam keluarga Vitaceae. Buah ini biasanya digunakan untuk membuat
+        jus anggur, jelly, minuman anggur, minyak biji anggur dan kismis, atau dimakan langsung. Buah ini juga dikenal karena mengandung banyak
+        senyawa polifenol dan resveratol yang berperan aktif dalam berbagai metabolisme tubuh, serta mampu mencegah terbentuknya sel kanker dan
+        berbagai penyakit lainnya. Aktivitas ini juga terkait dengan adanya senyawa metabolit sekunder di dalam buah anggur yang berperan sebagai
+        senyawa antioksidan yang mampu menangkal radikal bebas.
+    </string>
+    <string name="melon">
+        Melon (Cucumis melo L.) merupakan nama buah sekaligus tanaman yang menghasilkannya, yang termasuk dalam suku labu-labuan atau Cucurbitaceae.
+        Buahnya biasanya dimakan segar sebagai buah meja atau diiris-iris sebagai campuran es buah. Bagian yang dimakan adalah daging buah (mesokarp).
+        Teksturnya lunak, berwarna putih sampai merah, tergantung kultivarnya.
+    </string>
+
+
+    //Sayur
+    <string name="wortel">
+        Wortel adalah tumbuhan biennial (siklus hidup 12 - 24 bulan) yang menyimpan karbohidrat dalam jumlah besar untuk tumbuhan tersebut berbunga
+        pada tahun kedua. Batang bunga tumbuh setinggi sekitar 1 m, dengan bunga berwarna putih, dan rasa yang manis langu. Bagian yang dapat
+        dimakan dari wortel adalah bagian umbi atau akarnya.
+    </string>
+    <string name="cabai">
+        Cabai atau cabai merah adalah buah dan tumbuhan anggota genus Capsicum. Buahnya dapat digolongkan sebagai sayuran maupun bumbu, tergantung
+        bagaimana digunakan. Sebagai bumbu, buah cabai yang pedas sangat populer di Asia Tenggara sebagai penguat rasa makanan. Bagi seni masakan
+        Padang, cabai bahkan dianggap sebagai "bahan makanan pokok" ke sepuluh (alih-alih sembilan). Sangat sulit bagi masakan Padang dibuat tanpa
+        cabai.
+    </string>
+    <string name="bayam">
+        Bayam (Amaranthus spp.) merupakan tumbuhan yang biasa ditanam untuk dikonsumsi daunnya sebagai sayuran hijau. Tumbuhan ini berasal dari
+        Amerika tropik namun sekarang tersebar ke seluruh dunia. Tumbuhan ini dikenal sebagai sayuran sumber zat besi yang penting bagi tubuh.
+    </string>
+    <string name="mentimun">
+        Mentimun, timun, atau ketimun (Cucumis sativus L.; suku labu-labuan atau Cucurbitaceae) merupakan tumbuhan yang menghasilkan buah yang
+        dapat dimakan. Buahnya biasanya dipanen ketika belum masak benar untuk dijadikan sayuran atau penyegar, tergantung jenisnya. Mentimun
+        dapat ditemukan di berbagai hidangan dari seluruh dunia dan memiliki kandungan air cukup banyak di dalamnya sehingga berfungsi menyejukkan.
+        Potongan buah mentimun juga digunakan untuk membantu melembabkan wajah serta banyak dipercaya dapat menurunkan tekanan darah tinggi.
+    </string>
+    <string name="paprika">
+        Paprika (Capsicum annuum L.) adalah tumbuhan penghasil buah yang berasa manis dan sedikit pedas dari suku terong-terongan atau Solanaceae).
+        Buahnya yang berwarna hijau, kuning, merah, atau ungu sering digunakan sebagai campuran salad. Dalam pengertian internasional, paprika
+        dipakai untuk menyatakan hampir semua varietas Capsicum annuum. Nama-nama tertentu, seperti pepperoni, diberikan untuk paprika dengan ciri
+        penampilan, penggunaan, atau rasa yang khas.
+    </string>
+
+    <string name="desc">    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+</resources>
